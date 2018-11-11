@@ -1,3 +1,3 @@
 # rget
 
-A very simple file downloader in rust.
+Just playing around with Rust.
