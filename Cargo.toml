@@ -5,3 +5,6 @@ authors = ["jamesgeorge007 <jamesgeorge998001@gmail.com>"]
 
 [dependencies]
 clap = "2.26.0"
+reqwest = "0.7.3"
+indicatif = "0.7.0"
+console = "0.5.0"
